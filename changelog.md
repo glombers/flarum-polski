@@ -1,3 +1,6 @@
+- 1.0.3
+  - Poprawiono kilka błędów
+
 - 1.0.2
   - Dodano obsługę rozszerzeń:
   - flarum-ext-markdown-editor
